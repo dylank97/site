@@ -43,7 +43,7 @@
   </div>
 
   <div data-role="main" class="ui-content">
-    <p>I Am Now A Mobile Developer!!</p>
+    <p>Test!!</p>
   </div>
 
   <div data-role="footer">
